@@ -70,7 +70,7 @@ $K=0$（$E_8$ 詰め込み）から $K>0$（単項イデアルへの物質化）
 4. **Gravity (重力) $\longleftrightarrow$ Global Constraint of $P_1 + P_2 = 1$ & Residual Curvature Cost**
    * **Mechanism:** Not a local folded group, but the **global curvature recovery cost** required to maintain $P_1 + P_2 = 1$ across all local principal ideals at the $C_n$ resolution limit.
    * **Discrete Meaning:** The topological tension/curvature of the finite manifold group as a whole when absorbing local asymmetries.
-   * **離散的意味:** 個別の折り畳み群ではなく、$C_n$ フレームの最小解像度における離散更新において、すべての局所的な単項イデアル全体で完全性（$P_1 + P_2 = 1$）を保ち続けるための「大域的な曲率回収コスト（位相的拘束）」そのものです。
+   * **離散的意味:** 個別の折り畳み群ではなく、$ C_n $ フレームの最小解像度における離散更新において、すべての局所的な単項イデアル全体で完全性（ $ P_1 + P_2 = 1 $ ）を保ち続けるための「大域的な曲率回収コスト（位相的拘束）」そのものです。
 
 ---
 
