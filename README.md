@@ -41,7 +41,7 @@ Driven by discrete $C_n$ frame updates and $P_1 + P_2 = 1$ projections, the Gram
 | :--- | :--- | :--- |
 | **Phase 0: Trigger** | **Spontaneous Symmetry Breaking** (Y. Nambu)<br>南部陽一郎の自発的対称性の破れ | **Orthogonal Projection ($P_1 + P_2 = 1, P_1 P_2 = 0$)**<br>等方状態からの排他的二項分割。不要な自由度の丸め込み（アポトーシス）の開始。 |
 | **Phase 1: $K < 0$** | **Hyperbolic Inflation**<br>負曲率によるインフレーション | **Lorentzian / Hyperbolic Coxeter Regime (e.g., $E_{10}$)**<br>双曲空間における指数関数的状態空間の拡張。 $C_n$  フレーム更新ごとの自由度の急膨張。 |
-| **Phase 2: $K = 0$** | **Critical Flatness & Lattice Packing**<br>曲率ゼロ空間への $E_8$ 詰め込み | **Affine Critical Point ($\tilde{E}_8 / E_9$) & Optimal Packing**<br>膨張の飽和（臨界点）。8次元空間における最高密度の離散格子（$E_8$ ルート系・240頂点）としての情報固定。 |
+| **Phase 2: $K = 0$** | **Critical Flatness & Lattice Packing**<br>曲率ゼロ空間への $E_8$ 詰め込み | **Affine Critical Point ($\tilde{E}_8 / E_9$) & Optimal Packing**<br>膨張の飽和（臨界点）。8次元空間における最高密度の離散格子（ $E_8$  ルート系・240頂点）としての情報固定。 |
 | **Phase 3: $K > 0$** | **Matter Condensation & Quantization**<br>正曲率による宇宙の物質化 | **Principal Ideals in Finite Manifold Groups ($S^3$, Hurwitz Integers, 24-cell)**<br>正曲率（閉じた有限多様体）への折り畳み。非対称性が $S^3$ 上の**単項イデアル**（単位四元数・正24胞体）へ回収され、離散粒子（物質）として定着。 |
 
 ---
