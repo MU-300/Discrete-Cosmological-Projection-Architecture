@@ -1,5 +1,5 @@
 # Discrete-Cosmological-Projection-Architecture
-*(単項イデアルと離散フレームレート $C_n$ による宇宙論的相転移および4つの相互作用の射影モデル)*
+(単項イデアルと離散フレームレート   $C_n$   による宇宙論的相転移および4つの相互作用の射影モデル)
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
